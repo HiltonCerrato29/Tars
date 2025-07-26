@@ -1,0 +1,21 @@
+# Archivos sensibles
+.env
+
+# Node.js / React (frontend)
+node_modules/
+build/
+npm-debug.log*
+.DS_Store
+coverage/
+
+# Python / Flask (backend)
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.db
+*.log
+
+# Archivos de sistema o editores
+.vscode/
+.idea/
+Thumbs.db
