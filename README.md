@@ -1,2 +1,2 @@
 # Tars
-Tars — Tu asistente académico con respuestas sarcásticas y divertidas
+Tars — Tu asistente académico con respuestas sarcásticas y divertidas 
